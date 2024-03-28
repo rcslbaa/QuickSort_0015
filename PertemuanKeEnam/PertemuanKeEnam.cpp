@@ -82,3 +82,8 @@ void q_short(int low, int high)
 
 
 }
+
+void display() {
+	cout << "---------------" << endl;
+	cout << "Sorted Array" << endl;
+	cout << "---------------" << endl;
